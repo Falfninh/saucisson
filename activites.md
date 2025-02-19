@@ -1,9 +1,9 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
-
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’association cherche à œuvrer pour la libération des saucissons.
 
 ## Nos activités
 
@@ -15,3 +15,4 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 - Projets à **impact environnemental positif**
 - Projets à **impact social positif**
 - Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- Afficher sur les lieux publiques nos affiches de préventions pour le droit des saucissons, abuser par Justin Bridou. 
